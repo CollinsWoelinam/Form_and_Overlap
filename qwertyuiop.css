@@ -1,0 +1,29 @@
+.form{
+	justify-content: center;
+	display: flex;
+	border: 1px solid yellow;
+	background: yellow;
+	border-radius: 15px;
+	width: 500px;
+	
+}
+#h{
+	text-align: center;
+	font-family: arial;
+}
+input{
+	border-radius: 5px;
+	width: 250px;
+	height: 30px;
+}
+img{
+	margin-left: 50px;
+	margin-top: 10px;
+}
+#Forget{
+	margin-left: 130px;
+}
+#in{
+	color: yellow;
+	background: black;
+}

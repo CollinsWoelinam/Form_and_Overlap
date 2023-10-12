@@ -1,0 +1,22 @@
+body{
+    justify-content: center;
+    display: flex;
+}
+#bg{
+    height:500px ;
+    width: 350px;
+    background: yellow;
+    margin-top: 100px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+}
+img{
+    margin: 10px 20px 5px 15px;
+
+}
+
+#image{
+    height: 100px;
+    width: 100px;
+}
